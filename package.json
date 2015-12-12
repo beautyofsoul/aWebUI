@@ -1,0 +1,23 @@
+{
+  "name": "a-web-ui",
+  "version": "1.0.0",
+  "description": "a web ui base angular js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beautyofsoul/aWebUI.git"
+  },
+  "keywords": [
+    "angular",
+    "webui"
+  ],
+  "author": "qiaoyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beautyofsoul/aWebUI/issues"
+  },
+  "homepage": "https://github.com/beautyofsoul/aWebUI#readme"
+}
