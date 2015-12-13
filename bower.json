@@ -1,0 +1,26 @@
+{
+  "name": "a-web-ui",
+  "description": "a web ui base angular js.",
+  "main": "index.js",
+  "authors": [
+    "qiaoyang"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "webui"
+  ],
+  "homepage": "https://github.com/beautyofsoul/aWebUI",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
